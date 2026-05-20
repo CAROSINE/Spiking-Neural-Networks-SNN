@@ -1,0 +1,5 @@
+Neuron spike ? — LIF (Leaky Integrate-and-Fire) model
+SpikingJelly or Norse library 
+STDP — Spike Timing Dependent Plasticity
+Neuromorphic hardware  (Intel Loihi, etc.)
+Project: Using SNN to MNIST or gesture recognition
