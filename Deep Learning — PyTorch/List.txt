@@ -1,4 +1,4 @@
-Tensor, autograd বোঝা
+Tensor, autograd understand 
 Neural network layer, activation function
 Backpropagation ও optimizer
 CNN দিয়ে image classification
