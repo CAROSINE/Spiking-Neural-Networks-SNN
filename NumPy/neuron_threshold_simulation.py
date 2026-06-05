@@ -13,5 +13,6 @@ print("Active neurons: ",neurons[fired])
    
 weights = np.array([0.4, 0.7, 0.2])  
 signal = neurons * weights   
+
 print("Output Signal: ",signal )  
 print("Total signal: ", signal.sum())    
